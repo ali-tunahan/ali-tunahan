@@ -1,3 +1,4 @@
 - I'm Ali Tunahan Işık '03
-- I'm a freshman at Bilkent University
+- I'm a sophomore at Bilkent University
 - I'm studying CS
+- I'm interested in web development and ML
